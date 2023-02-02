@@ -1,0 +1,7 @@
+.vscode/
+build/
+frames/
+doc/
+main
+*.bmp
+*.mpeg
